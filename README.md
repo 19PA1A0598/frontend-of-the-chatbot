@@ -17,9 +17,9 @@
 
   :arrow_right: We explained about our chatbot using pictures and some information.
   
-  :we provided for chatting using an pop-up model at end of the web page.
+  :arrow_right:we provided for chatting using an pop-up model at end of the web page.
   
-  :when we press the icon an backbround will pop-up for our conversation.
+  :arrow_right:when we press the icon an backbround will pop-up for our conversation.
   
 # Description of our chatbot
   We provided two services in our chatbot 
