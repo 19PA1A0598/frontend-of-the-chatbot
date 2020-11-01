@@ -40,4 +40,4 @@
   :arrow_right: Javascript 
   
 # Website pics
-  [Screenshot](Capture.png)
+  ![alt text](chatbot.jpeg)
