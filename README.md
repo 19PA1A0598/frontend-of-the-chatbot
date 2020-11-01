@@ -15,7 +15,11 @@
 # Description of the project
   :arrow_right: We designed a good looking environment to run our chatbot. 
 
-  :arrow_right: We explained about our chatbot using pictures and some information. 
+  :arrow_right: We explained about our chatbot using pictures and some information.
+  
+  :we provided for chatting using an pop-up model at end of the web page.
+  
+  :when we press the icon an backbround will pop-up for our conversation.
   
 # Description of our chatbot
   We provided two services in our chatbot 
