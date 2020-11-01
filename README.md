@@ -40,4 +40,4 @@
   :arrow_right: Javascript 
   
 # Website pics
-  ![alt text](Capture.PNG)
+  [Screenshot](Capture.png)
