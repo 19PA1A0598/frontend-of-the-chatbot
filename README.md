@@ -21,10 +21,10 @@
   We provided two services in our chatbot 
 
   :arrow_right: Booking Doctor Appointment 
-   *We take the details of the patient and book the appointment in available timings. 
+   1)We take the details of the patient and book the appointment in available timings. 
 
   :arrow_right: Medical Tests at home 
-   *We take the details of the patient and the test and also the address from where the test samples have to be collected. 
+   1)We take the details of the patient and the test and also the address from where the test samples have to be collected. 
 
 # Languages used
   :arrow_right: HTMl
